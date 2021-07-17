@@ -1,10 +1,12 @@
-## Description
+# Flashcards
 
-# Front-End: 
+Simple flashcard app that allows for setting up collections of flashcards and quizing yourself. Eventually will allow for sharing collections. 
+
+## Front-End: 
 
 Vue3 
 
-## Pages
+### Pages
 
 #### Frontpage
 
@@ -59,26 +61,26 @@ Will require authentication and models for users.
 
 
 
-# Back-End
+## Back-End
 
 Django
 
 to-do
 
-# Database
+### Database
 
 SQLite
 
-## Models
+#### Models
 
-#### User
+##### User
 
 * User ID
 * User name
 * Password
 * Created Date
 
-#### Collection
+##### Collection
 
 * Collection ID
 * Collection Title
@@ -88,7 +90,7 @@ SQLite
 * is_active
 * is_favorite
 
-#### Card
+##### Card
 
 * Card ID
 * Created Date
