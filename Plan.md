@@ -16,7 +16,7 @@ Nav with site title, Sign In and Sign Up
 
 #### Login
 
-Doesnt need to be anything fany. Just a form for user/pass + submit button
+Doesnt need to be anything fancy. Just a form for user/pass + submit button
 
 #### Collections
 
